@@ -1,0 +1,9 @@
+*.pyc
+.idea
+cache
+icons
+learnkivy-env
+blue_pin.png
+pink_pin.png
+start_flag.png
+plyerexample.py
